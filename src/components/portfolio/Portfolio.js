@@ -24,7 +24,7 @@ const data = [
     title: 'My-Notes-Taking-App',
     desc: "This App functions as a service for viewing, making, editing,deleting and searching short text notes.",
     github: 'https://github.com/Harshika-Juneja/My-Notes-Taking-App',
-    demo:"",
+    demo:"https://hj-notes-taking-app.netlify.app/",
   }, {
     id: 3,
     image: IMG3,
@@ -39,7 +39,7 @@ const data = [
     title: 'Contact-App',
     desc: "This is the front-end of the contact app which allows users to perform functions like create, add, delete, edit, search contacts from you app directory.",
     github: 'https://github.com/Harshika-Juneja/Contact-App',
-    demo:"",
+    demo:"https://hj-contact-app.netlify.app/",
 
   }, {
     id: 5,
