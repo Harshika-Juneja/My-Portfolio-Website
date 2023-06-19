@@ -37,13 +37,13 @@ const Contact = () => {
           <article className='contact__option'>
             <RiTelegramLine  className='contact__option-icon'/>
             <h4>Telegram</h4>
-            <h5>+1234</h5>
+            <h5>+91</h5>
             <a href="https://t.me/harshikajuneja" target='__blank'>Send a message</a>
           </article>
           <article className='contact__option'>
             <BsWhatsapp  className='contact__option-icon'/>
             <h4>WhatsApp</h4>
-            <h5>+1234</h5>
+            <h5>+91</h5>
             <a href="https://api.whatsapp.com/send/?phone=919306638318&text&type=phone_number&app_absent=0" target='__blank'>
             Send a message</a>
           </article>
