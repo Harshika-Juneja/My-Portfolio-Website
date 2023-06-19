@@ -19,7 +19,7 @@ const Footer = () => {
       <div className='footer__socials'>
       <a href="https://www.linkedin.com/in/harshika-juneja-429b1a1a7" target="https://www.linkedin.com/in"><BsLinkedin/></a>
        <a href="https://github.com/Harshika-Juneja" target="https://github.com"><FaGithub/></a>
-       <a href="https://api.whatsapp.com/send?phone=+91 9306638318" target='__blank'><BsWhatsapp/></a>
+       <a href="https://api.whatsapp.com/send?phone=9306638318" target='__blank'><BsWhatsapp/></a>
       </div>
 
       <div className='footer__copyright'>
