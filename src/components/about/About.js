@@ -37,7 +37,7 @@ const About = () => {
        </div>
 
        <p>Greetings, I am Harshika Juneja! I have recently earned by Bachelor's of
-       Technology (B.Tech) degree from Kurukshetrta University majoring in 
+       Technology (B.Tech) degree from Kurukshetra University majoring in 
        Computer Science and Engineering. As a fresher I am eager to contribute 
        to team success through hardwork,appetite for knowledge, attention to 
        detail.I am looking to work in an organization which provides me with 
