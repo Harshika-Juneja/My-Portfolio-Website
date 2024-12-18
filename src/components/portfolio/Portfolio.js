@@ -9,7 +9,7 @@ import IMG6 from '../../assets/w.png'
 import IMG7 from '../../assets/cof1.png'
 import IMG8 from '../../assets/p1.png'
 import IMG9 from '../../assets/m.png'
-import CFimg from '../assets/cf.png'
+import CFimg from '../../assets/cf.png'
 
 const data = [
   {
