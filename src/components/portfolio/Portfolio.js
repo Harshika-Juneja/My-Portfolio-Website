@@ -40,36 +40,18 @@ const data = [
 
   }, {
     id: 5,
-    image: IMG5,
-    title: 'Dynamic-Calender',
-    desc: "This calender shows number of days in every month along with the day of week for the year. The current day and date is also highlighted with a seperate color.",
-    demo:"https://hj-calender.netlify.app/",
-  }, {
-    id: 6,
     image: IMG6,
     title: 'Weather-App',
     desc: "A simple weather application that displays the current weather, temperature, humidity, wind speed based on search. It uses OpenWeatherMapAPI for fetching the result according to the city searched.",
     demo:"https://hj-weather-app.netlify.app/",
   }, {
-    id: 7,
-    image: CFimg,
+    id: 6,
+    image: IMG7,
     title: 'Coffee-Shop Design',
     desc: 'Responsive coffee shop website design built with HTML,CSS,JS where customers can order coffee, leave reviews.',
     demo:"https://hj-coffee-shop.netlify.app/",
   },
-  {
-    id: 8,
-    image: IMG8,
-    title: 'Photo-Blog',
-    desc: "This is a single page blog that uses HTML,CSS properties to display photos.",
-    demo:"https://hj-photo-blog.netlify.app/",
-  }, {
-    id: 9,
-    image: IMG9,
-    title: 'Museum-Of-Candy',
-    desc: "A single page responsive dummy website design built with HTML,CSS and BOOTSTRAP.",
-    demo:"https://hj-museum-of-candy.netlify.app/",
-  }
+
 
 ]
 const Portfolio = () => {
