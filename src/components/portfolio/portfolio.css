@@ -33,7 +33,8 @@
 .portfolio__item-cta{
     display: flex;
     gap:1rem;
-    align-items:center;
+    margin-top: 1rem;
+    justify-content:center;
     margin-bottom: 1rem;
 }
 
