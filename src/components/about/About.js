@@ -22,7 +22,7 @@ const About = () => {
         <article className='about__card'>
           <FaAward className='about__icon' />
           <h5>Experience</h5>
-          <small>10+ Skills</small>
+          <small>1+ years</small>
         </article>
         <article className='about__card'>
           <TbFileCertificate className='about__icon' />
@@ -32,22 +32,14 @@ const About = () => {
         <article className='about__card'>
           <VscFolderLibrary className='about__icon' />
           <h5>Projects</h5>
-          <small>10+ Completed</small>
+          <small>15+ Successfully Completed</small>
         </article>
        </div>
 
-       <p>Greetings, I am Harshika Juneja! I have recently earned by Bachelor's of
-       Technology (B.Tech) degree from Kurukshetra University majoring in 
-       Computer Science and Engineering. As a fresher I am eager to contribute 
-       to team success through hardwork,appetite for knowledge, attention to 
-       detail.I am looking to work in an organization which provides me with 
-       ample opportunities to enhance my skills and knowledge along with 
-       contributing to the growth of the organization and 
-       experience to help their business grow its web
-       presence and make an impact on the internet.
+       <p>Greetings, I am Harshika Juneja! I have been working as a Frontend Developer for a digital marketing agency since past year.
        </p>
 
-       < a href="#contact" className='btn btn-primary' >Let's Talk</a>
+       < a href="#contact" className='btn btn-primary' >Let's Connect</a>
       </div>
       </div>
     </section>
