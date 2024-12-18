@@ -9,6 +9,7 @@ import IMG6 from '../../assets/w.png'
 import IMG7 from '../../assets/cof1.png'
 import IMG8 from '../../assets/p1.png'
 import IMG9 from '../../assets/m.png'
+import CFimg from '../assets/cf.png'
 
 const data = [
   {
@@ -51,7 +52,7 @@ const data = [
     demo:"https://hj-weather-app.netlify.app/",
   }, {
     id: 7,
-    image: IMG7,
+    image: CFimg,
     title: 'Coffee-Shop Design',
     desc: 'Responsive coffee shop website design built with HTML,CSS,JS where customers can order coffee, leave reviews.',
     demo:"https://hj-coffee-shop.netlify.app/",
