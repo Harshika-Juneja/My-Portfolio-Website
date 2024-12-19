@@ -20,13 +20,15 @@ const data = [
     title: 'CastFinder Platform  ',
     desc: "Platform built using Html,Css,Bootstrap,Js and React for seamless interaction between models/talents and casting agencies.",
     demo:"https://castfinder.eu/",
-  }, 
+  },
+  {
     id: 2,
     image: BSimg,
     title: 'BrandSeeder : Digital Marketing agency',
     desc: "Website built using Html,Css,Js and Jquery handled through CMS for a digital marketing agency.",
     demo:"https://www.brandseeder.com/",
   }, 
+  {
     id: 3,
     image: MOVimg,
     title: 'Movilla: A Movie Streaming Platform',
@@ -54,12 +56,13 @@ const data = [
     desc: "This real-time clock design is created using Html,CSS,JS. It shows the current time both analogically and digitally.",
     demo:"https://hj-analog-digital-clock.netlify.app/",
   },
-  id: 7,
+  {
+    id: 7,
     image: IMG1,
     title: 'Animated Registration-Login Design ',
     desc: "This is an animated login-registration form created by using Html,Css.",
     demo:"https://hj-login-register.netlify.app/",
-  }
+  },
   {
     id: 8,
     image: IMG6,
