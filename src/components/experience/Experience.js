@@ -1,8 +1,7 @@
 import React from 'react'
 import './experience.css' 
 import {BsPatchCheckFill} from 'react-icons/bs'
-import FrontendCertificates from './FrontendCertificates'
-import SoftwareCertificates from './SoftwareCertificates'
+
 
 const Experience = () => {
   return (
@@ -25,7 +24,7 @@ const Experience = () => {
            <BsPatchCheckFill className='experience__details-icon'/>
            <div>
            <h4>CSS</h4>
-           <small className='text-light'>Intermediate</small>
+           <small className='text-light'>Experienced</small>
            </div>
            </article>
            <article className='experience__details'>
@@ -49,11 +48,17 @@ const Experience = () => {
            <small className='text-light'>Experienced</small>
            </div>
            </article>
+           <article className='experience__details'>
+           <BsPatchCheckFill className='experience__details-icon'/>
+           <div>
+           <h4>Tailwind CSS</h4>
+           <small className='text-light'>Intermediate</small>
+           </div>
+           </article>
           </div>
-          <FrontendCertificates className='.experience_certificates'/>
         </div>
         <div className='experience__backend'>
-        <h3>Software Development</h3>
+        <h3>Backend Development</h3>
           <div className='experience__content'>
            <article className='experience__details'>
            <BsPatchCheckFill className='experience__details-icon'/>
@@ -91,7 +96,7 @@ const Experience = () => {
            </div>
            </article>
           </div>
-          <SoftwareCertificates className='.experience_certificates'/>
+        
         </div>
       </div>
     </section>
