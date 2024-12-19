@@ -11,7 +11,7 @@ import IMG8 from '../../assets/p1.png'
 import IMG9 from '../../assets/m.png'
 import CFimg from '../../assets/cf.png'
 import BSimg from '../../assets/Bs.png'
-import MOVimg from '../../assets/Mov.png'
+import MOVimg from '../../assets/mov.png'
 
 const data = [
   {
