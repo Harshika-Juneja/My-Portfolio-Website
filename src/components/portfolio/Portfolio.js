@@ -10,8 +10,8 @@ import IMG7 from '../../assets/cof1.png'
 import IMG8 from '../../assets/p1.png'
 import IMG9 from '../../assets/m.png'
 import IMG10 from '../../assets/cf.png'
-import BSimg from '../../assets/Bs.png'
-import MOVimg from '../../assets/mov.png'
+import IMG11 from '../../assets/Bs.png'
+import IMG12 from '../../assets/mov.png'
 
 const data = [
   {
@@ -23,14 +23,14 @@ const data = [
   },
   {
     id: 2,
-    image: BSimg,
+    image: IMG11,
     title: 'BrandSeeder : Digital Marketing agency',
     desc: "Website built using Html,Css,Js and Jquery handled through CMS for a digital marketing agency.",
     demo:"https://www.brandseeder.com/",
   }, 
   {
     id: 3,
-    image: MOVimg,
+    image: IMG12,
     title: 'Movilla: A Movie Streaming Platform',
     desc: "A movie/tv shows streaming app built using React, Context Api, React routing , Firebase Firestore , Api Integration.",
     demo:"https://hj-login-register.netlify.app/",
