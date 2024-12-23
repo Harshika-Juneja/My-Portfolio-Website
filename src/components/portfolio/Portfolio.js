@@ -9,14 +9,14 @@ import IMG6 from '../../assets/w.png'
 import IMG7 from '../../assets/cof1.png'
 import IMG8 from '../../assets/p1.png'
 import IMG9 from '../../assets/m.png'
-import CFimg from '../../assets/cf.png'
+import IMG10 from '../../assets/cf.png'
 import BSimg from '../../assets/Bs.png'
 import MOVimg from '../../assets/mov.png'
 
 const data = [
   {
     id: 1,
-    image: CFimg,
+    image: IMG10,
     title: 'CastFinder Platform  ',
     desc: "Platform built using Html,Css,Bootstrap,Js and React for seamless interaction between models/talents and casting agencies.",
     demo:"https://castfinder.eu/",
