@@ -37,11 +37,11 @@ const About = () => {
        </div>
 
        <p>
-            Hi, I'm Harshika Juneja! I'm a passionate Frontend Developer specializing in building responsive, user-focused web applications with React.js, HTML, CSS, and JavaScript.<br>
-            I thrive on crafting seamless user experiences, whether it's dynamic dashboards, marketing websites, or role-based platforms.<br>
-            With professional experience at DayNight Technologies, I've developed pixel-perfect designs, integrated APIs, and collaborated with cross-functional teams to deliver high-quality web solutions.<br>
-            My projects include creating interactive dashboards, streaming platforms, and CMS-based fintech solutions, all while ensuring performance optimization and scalability.<br>
-            I enjoy translating complex ideas into intuitive interfaces and am always eager to learn and adapt to the latest technologies. Let's connect and bring your next idea to life!<br>
+           Hi, I'm Harshika Juneja! 👋 
+           I'm a passionate Full-Stack Developer specializing in building responsive, user-focused web applications using React.js, HTML, CSS, and JavaScript. I thrive on crafting seamless user experiences—whether it's dynamic dashboards, marketing websites, or role-based platforms.<br/>
+           At DayNight Technologies, I contributed to pixel-perfect UI development, API integrations, and cross-functional collaboration to deliver high-quality web solutions. My work spans interactive dashboards, streaming platforms, and CMS-based fintech solutions, ensuring performance optimization and scalability at every stage.<br/>
+           I love translating complex ideas into intuitive interfaces and continuously learning the latest technologies to stay ahead in the ever-evolving web development space.<br/>
+           🚀 Let’s connect and bring your next idea to life!Let's connect and bring your next idea to life!<br>
        </p>
 
        < a href="#contact" className='btn btn-primary' >Let's Connect</a>
